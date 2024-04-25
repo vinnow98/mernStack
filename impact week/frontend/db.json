@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": "454d",
+      "Username": "asd",
+      "PostText": "asd"
+    },
+    {
+      "id": "8ef9",
+      "Username": "test",
+      "PostText": "hello"
+    }
+  ],
+  "comments": [
+    {
+      "id": "e01b",
+      "comment": "lalalal"
+    },
+    {
+      "id": "339d",
+      "comment": "asdasda"
+    },
+    {
+      "id": "339d",
+      "comment": "asasdfadfa"
+    },
+    {
+      "id": "454d",
+      "comment": "ajsndj"
+    }
+  ]
+}
